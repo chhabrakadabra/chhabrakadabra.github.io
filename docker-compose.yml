@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  web:
+    image: jekyll/jekyll:3
+    command: jekyll serve --livereload --incremental
+    ports:
+      - 4000:4000
+      - 35729:35729
+    volumes:
+      - .:/srv/jekyll
