@@ -19,6 +19,18 @@ collections:
   authors:
     output: true
 
+author:
+  name: Abhin Chhabra
+  avatar: /assets/images/headshot.jpg
+  home: /authors/abhin
+  bio: Optimization for happiness in progress...
+  location: "Toronto, Canada"
+  twitter: abhinthere
+  linkedin: abhin-chhabra
+  instagram: chhabrakadabra
+  bitbucket: abhin
+  github: chhabrakadabra
+
 defaults:
   # _posts
   - scope:
@@ -30,3 +42,4 @@ defaults:
       comments: true
       share: true
       related: true
+      author_profile: true

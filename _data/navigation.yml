@@ -1,4 +1,5 @@
-- name: Home
-  link: /
-- name: About
-  link: /about
+main:
+  - title: About
+    url: /about
+  - title: Courses
+    url: https://10xsoft.org/courses/
