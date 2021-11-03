@@ -1,6 +1,8 @@
-theme: jekyll-theme-merlot
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 title: Abhin
+name: Abhin
 description: A summary of my projects and ideas.
 
 plugins:
@@ -8,6 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 whitelist:
   - jekyll-redirect-from
@@ -15,3 +18,15 @@ whitelist:
 collections:
   authors:
     output: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
