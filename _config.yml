@@ -11,6 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 whitelist:
   - jekyll-redirect-from
