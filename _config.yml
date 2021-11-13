@@ -7,11 +7,11 @@ description: A summary of my projects and ideas.
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-redirect-from
