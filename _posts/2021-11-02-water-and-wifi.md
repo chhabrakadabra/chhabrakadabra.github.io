@@ -3,10 +3,10 @@ layout: single
 title: The strange relationship between water and WiFi
 ---
 
-The strange and mind-boggling relationship between water and WiFi showcases the weird ways
-technology evolves. Sometimes it's tempting to think that technological decisions are the product of
-very smart people thinking very hard about what the best way to do something is. While that may be
-true some of the times, things often just fall into place based on weird circumstances.
+The strange relationship between water and WiFi showcases the weird ways technology evolves.
+Sometimes it's tempting to think that technological decisions are the product of very smart people
+thinking very hard about what the best way to do something is. While that may be true some of the
+times, things often just fall into place based on weird circumstances.
 
 Allow me to start with a weird phenomenon: in the early days of WiFi, your WiFi speed would drop
 dramatically when you were using the Microwave. See [this article from
