@@ -4,6 +4,7 @@ remote_theme: mmistakes/minimal-mistakes
 title: Abhin
 name: Abhin
 description: A summary of my projects and ideas.
+url: https://abhin.ca
 
 plugins:
   - jekyll-feed
