@@ -18,13 +18,13 @@ whitelist:
   - jekyll-redirect-from
 
 collections:
-  author:
+  authors:
     output: true
 
 author:
   name: Abhin Chhabra
   avatar: /assets/images/headshot.jpg
-  home: /author/abhin
+  home: /authors/abhin
   bio: Optimization for happiness in progress...
   location: "Toronto, Canada"
   twitter: abhinthere
