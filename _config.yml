@@ -33,6 +33,9 @@ author:
   bitbucket: abhin
   github: chhabrakadabra
 
+twitter:
+  username: abhinthere
+
 defaults:
   # _posts
   - scope:
