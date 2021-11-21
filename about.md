@@ -1,4 +1,4 @@
 ---
 title: About Me
-redirect_to: /author/abhin
+redirect_to: /authors/abhin
 ---

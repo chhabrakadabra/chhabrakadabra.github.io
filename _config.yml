@@ -48,3 +48,5 @@ defaults:
       share: true
       related: true
       author_profile: true
+      show_date: true
+      words_per_minute: 200
