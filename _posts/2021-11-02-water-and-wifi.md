@@ -1,6 +1,10 @@
 ---
 layout: single
 title: The strange relationship between water and WiFi
+excerpt: How the development of WiFi technology was influenced by water
+header:
+  image: /assets/images/water_wifi.jpg
+  image_description: Laptop on the beach
 ---
 
 The strange relationship between water and WiFi showcases the weird ways technology evolves.
